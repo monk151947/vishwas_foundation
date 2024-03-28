@@ -8403,6 +8403,10 @@ textarea.form-control {
   padding-top: 120px;
   padding-bottom: 120px; }
 
+.header_text_color {
+  color: #f86f2d !important;
+}  
+
 #map {
   height: 400px;
   width: 100%; }
