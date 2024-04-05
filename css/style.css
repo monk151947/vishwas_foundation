@@ -8405,7 +8405,11 @@ textarea.form-control {
 
 .header_text_color {
   color: #f86f2d !important;
-}  
+}
+
+.addr_text_align {
+  text-align: left;
+}
 
 #map {
   height: 400px;
